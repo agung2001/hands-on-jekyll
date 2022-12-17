@@ -1,0 +1,21 @@
+# IDEs
+/.idea
+/.vscode
+
+# Vendords
+/vendors
+/node_modules
+
+# Extras
+.env
+package-lock.json
+
+# Builds
+*.js.map
+
+# Jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
